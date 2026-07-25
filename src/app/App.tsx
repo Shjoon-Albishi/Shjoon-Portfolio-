@@ -1126,7 +1126,7 @@ function Footer() {
           <span className="text-sm font-semibold text-[#4a5a8a]" style={{ fontFamily: "'Plus Jakarta Sans', sans-serif" }}>Shjoon Albishi</span>
         </div>
         <p className="text-xs text-[#94a3b8]" style={{ fontFamily: "'JetBrains Mono', monospace" }}>
-          © 2025 · Designed &amp; Built with precision
+          © 2026 · Designed &amp; Built with precision
         </p>
       </div>
     </footer>
